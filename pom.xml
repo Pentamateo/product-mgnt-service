@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.perfulandia</groupId>
-	<artifactId>Invetory</artifactId>
+	<artifactId>Inventory</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Invetory</name>
+	<name>Inventory</name>
 	<description>Inventario de perfulandia</description>
 	<url/>
 	<licenses>
@@ -51,7 +51,6 @@
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
 		</dependency>
 	</dependencies>
-
 	<build>
 		<plugins>
 			<plugin>
